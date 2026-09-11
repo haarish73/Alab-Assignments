@@ -1,4 +1,4 @@
-<img width="1297" height="531" alt="image" src="https://github.com/user-attachments/assets/e58e7fd3-7a74-4aaa-950b-131828e5af07" /># 🛒 MERN Product Management Application
+MERN Product Management Application
 
 A full-stack product management system built using the MERN stack. This application allows users to manage products and categories with features like adding, updating, and viewing product details.
 
@@ -20,11 +20,17 @@ A full-stack product management system built using the MERN stack. This applicat
 
 ### 📂 Category Management
 
-![Category](./screenshots/category.png)
+<img width="1232" height="506" alt="image" src="https://github.com/user-attachments/assets/58d55770-480d-44f9-8a26-910439f508bb" />
+<img width="737" height="452" alt="image" src="https://github.com/user-attachments/assets/464155d6-017e-4daf-afde-3d2c25f9d414" />
+<img width="817" height="516" alt="image" src="https://github.com/user-attachments/assets/3a9ea42e-6955-4fb4-a45d-6ec1d75fcc2e" />
+
+
+
 
 ### ✏️ Edit Product
 
-![Edit Product](./screenshots/edit-product.png)
+<img width="626" height="827" alt="image" src="https://github.com/user-attachments/assets/47a19f6b-86a5-4bf7-a15b-341164aa898b" />
+
 
 ---
 
